@@ -1,0 +1,2 @@
+# sourceCodeRead
+主要存放jdk，spring，rocketMq等源码，保证阅读持续性，在idea上打开并阅读，将阅读情况和修改情况实时上传到git仓库保证同步
